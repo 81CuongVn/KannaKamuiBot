@@ -43,7 +43,7 @@
     "mongoose": "^5.13.9",
     "ms": "^3.0.0-canary.1",
     "nekobot-api": "^2.1.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-kitsu": "^1.1.1",
     "path": "^0.12.7",
     "random-words": "^1.1.1",
